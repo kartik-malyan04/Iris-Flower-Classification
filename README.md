@@ -58,7 +58,7 @@ The model successfully classified Iris flower species with high accuracy.
 
 ### Author
 
-Kartik Malyan 
+Kartikey
 
 ### Internship
 
